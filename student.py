@@ -10,3 +10,6 @@ def display_students():
 add_student("Anish", 1)
 add_student("Rahul", 2)
 display_students()
+
+add_student("Jack",3)
+display_students()
