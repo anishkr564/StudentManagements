@@ -34,9 +34,9 @@ Student-Management/
 
 ## Sample Output
 ```
-1 - Amit
-2 - Riya
+1 - Lucky
+2 - Rahul
 ```
 
 ## Author
-Your Name
+Anish
